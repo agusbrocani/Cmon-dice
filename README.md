@@ -65,8 +65,5 @@ Una vez que todos los jugadores hayan tenido su turno se mostrará el informe y 
 ## Integrantes del grupo:
 Este proyecto ha sido elaborado por: 
  - Brocani, Agustín
- - Fariello, Ramiro
- - Monges, Omar
- - Odriozola, Ignacio
  - Quiroga Piegari, Lucila
  - Sierra, Jazmín
